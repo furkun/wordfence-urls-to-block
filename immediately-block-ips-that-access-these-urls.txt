@@ -21,6 +21,7 @@
 /bkp_site
 /blog/wp-admin/includes/
 /cgi-bin/.env
+/cms
 /config.js
 /config/aws.yml
 /copy
@@ -34,6 +35,7 @@
 /demo/rss/catalog/notifystock
 /demo/rss/catalog/review
 /demo/rss/order/new
+/dev
 /dev/downloader/index.php
 /dev/errors/503.php
 /dev/index.php/admin/
@@ -71,6 +73,7 @@
 /phpinfo.php
 /plugins/content/apismtp/apismtp.php.suspected?test=hello
 /plugins/content/apismtp/apismtp.php?test=hello
+/protal
 /protected/.env
 /public/.env
 /rss/catalog/notifystock
@@ -119,3 +122,6 @@
 /wp-login.php
 /wp/wp-admin/includes/
 /xmlrpc.php
+/cms
+/dev
+/protal
