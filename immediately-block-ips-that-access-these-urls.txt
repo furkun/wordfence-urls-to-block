@@ -122,3 +122,13 @@
 /upload.php
 /media-admin.php
 //wp-login.php
+/api/.env
+/laravel/.env
+/test/.env
+/admin/.env
+/vendor/.env
+/sites/.env
+/blog/.env
+/system/.env
+/public/.env
+/shop/.env
