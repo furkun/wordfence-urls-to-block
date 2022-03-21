@@ -216,3 +216,4 @@
 /test/helpers/utility.js
 /bountysports/helpers/utility.js
 /yooowhatsapp
+/wp-json/wp/v2/users/
