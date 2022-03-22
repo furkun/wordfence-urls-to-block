@@ -217,3 +217,5 @@
 /bountysports/helpers/utility.js
 /yooowhatsapp
 /wp-json/wp/v2/users/
+/wp-admin/style.php
+/wp-includes/wp-class.php
