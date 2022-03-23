@@ -219,3 +219,8 @@
 /wp-json/wp/v2/users/
 /wp-admin/style.php
 /wp-includes/wp-class.php
+/css/index.php
+/admin.php
+/wp-content/plugins/cach/coment/index.php
+/wp-content/themes/sketch/content-sample.php
+/css/load.php
